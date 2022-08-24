@@ -6,7 +6,7 @@ You can find Popular channels in this IPTV playlist
 
 ALL bangladeshi IPTV links are BDIX connected.
 
-IPTV playlist url- 
+IPTV playlist url- https://raw.githubusercontent.com/Sozyb/Vanced-IPTV/main/Sozyb.m3u
 
 Please contribute this project and add more channel or you can also send me iptv links on my email.
 If you can't find your favorite channel you can contribute this project and add your channel or you can also send me iptv links on my email.
